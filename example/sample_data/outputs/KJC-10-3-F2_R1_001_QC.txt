@@ -1,0 +1,5 @@
+Total sequences: 177069
+Total success: 144353 (81.52358685032388%)
+Total fail: 32716 (18.476413149676116%)
+Size fail: 25049 (14.14646267839091%)
+Sequence match fail: 7667 (4.329950471285205%)
