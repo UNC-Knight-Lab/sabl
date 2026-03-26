@@ -1,4 +1,4 @@
-# prism
+# sabl
 Welcome to the SABL (Sequence Assessment for Barcoded Libraries) package, offered by the Knight Lab at UNC Chapel Hill! This script was developed by Kevin Coghlan (kevinjcoghlan@gmail.com) and is compiled as a Python package.
 
 ## Table of Contents
